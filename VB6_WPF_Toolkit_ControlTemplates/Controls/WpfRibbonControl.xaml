@@ -1,0 +1,10 @@
+﻿<UserControl x:Class="Controls.WpfRibbonControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"             
+             xmlns:my="http://schemas.microsoft.com/winfx/2006/xaml/presentation/ribbon">
+    <Grid>
+        <my:Ribbon>            
+            
+        </my:Ribbon>
+    </Grid>
+</UserControl>

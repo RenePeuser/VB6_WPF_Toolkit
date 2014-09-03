@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- You don't need to worry about anything in this file unless you're
+     using registration-free COM.
+     There should be an appropriate <clrclass> section for every InteropUserControl
+     defined in the project -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" 
+  manifestVersion="1.0">
+<assemblyIdentity
+            type="win32"
+            name="VB6_WPF_Toolkit"
+            version="1.0.0.0" />
+<clrClass
+            clsid="{913F7F5B-03AD-41F2-8090-E9B80F2BDC53}"
+            progid="VB6_WPF_Toolkit.Controls.WpfButton"
+            threadingModel="Both"
+            name="VB6_WPF_Toolkit.Controls.WpfButton" >
+</clrClass>
+
+<clrClass
+          clsid="{C2D2F671-B503-4C30-B5B4-4C1633F1F138}"
+          progid="VB6_WPF_Toolkit.Controls.WpfDocumentViewer"
+          threadingModel="Both"
+          name="VB6_WPF_Toolkit.Controls.WpfDocumentViewer" >
+</clrClass>
+
+<clrClass
+        clsid="{F9FF4D43-0CC1-42DF-9BE4-2980988E619F}"
+        progid="VB6_WPF_Toolkit.Controls.WpfImage"
+        threadingModel="Both"
+        name="VB6_WPF_Toolkit.Controls.WpfImage" >
+</clrClass>
+
+<clrClass
+        clsid="{AB21B4A1-CBCE-48CC-99EB-4BFF8194F26B}"
+        progid="VB6_WPF_Toolkit.Controls.WpfMediaElement"
+        threadingModel="Both"
+        name="VB6_WPF_Toolkit.Controls.WpfMediaElement" >
+</clrClass>
+
+<clrClass
+      clsid="{3854CDB3-F673-4A93-A9A5-C3EB735C8CA4}"
+      progid="VB6_WPF_Toolkit.Controls.WpfPasswordBox"
+      threadingModel="Both"
+      name="VB6_WPF_Toolkit.Controls.WpfPasswordBox" >
+</clrClass>
+
+<clrClass
+    clsid="{6C743514-7684-4E4D-8323-9FC034D5EB54}"
+    progid="VB6_WPF_Toolkit.Controls.WpfProgressBar"
+    threadingModel="Both"
+    name="VB6_WPF_Toolkit.Controls.WpfProgressBar" >
+</clrClass>
+
+<clrClass
+  clsid="{50A6358C-77CF-4C75-BA63-1FE3C643EF09}"
+  progid="VB6_WPF_Toolkit.Controls.WpfRibbon"
+  threadingModel="Both"
+  name="VB6_WPF_Toolkit.Controls.WpfRibbon" >
+</clrClass>
+
+<clrClass
+    clsid="{62CDCFAF-7EF8-4C96-96C8-B19715DEDB58}"
+    progid="VB6_WPF_Toolkit.Controls.WpfSlider"
+    threadingModel="Both"
+    name="VB6_WPF_Toolkit.Controls.WpfSlider" >
+</clrClass>
+
+  <clrClass
+    clsid="{E9D61C84-F323-4779-B56D-9EA9D90CA46A}"
+    progid="VB6_WPF_Toolkit.Controls.WpfTab"
+    threadingModel="Both"
+    name="VB6_WPF_Toolkit.Controls.WpfTab" >
+  </clrClass>
+
+
+
+</assembly>

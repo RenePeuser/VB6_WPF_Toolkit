@@ -1,0 +1,11 @@
+#define RT_MANIFEST 24
+1 RT_MANIFEST InteropUserControl.manifest
+101 BITMAP Images\button.bmp
+102 BITMAP Images\progressbar.bmp
+103 BITMAP Images\slider.bmp
+104 BITMAP Images\documentviewer.bmp
+105 BITMAP Images\mediaelement.bmp
+106 BITMAP Images\ribbon.bmp
+107 BITMAP Images\image.bmp
+108 BITMAP Images\passwordbox.bmp
+109 BITMAP Images\tab.bmp
